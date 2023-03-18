@@ -6,7 +6,7 @@ import (
 
 	"context"
 	"encoding/json"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	"github.com/docker/docker/api/types"

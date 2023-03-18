@@ -1,7 +1,7 @@
 package docker
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net"
 	"regexp"
 	"strconv"

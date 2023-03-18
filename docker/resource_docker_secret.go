@@ -2,7 +2,7 @@ package docker
 
 import (
 	"encoding/base64"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"context"
 
